@@ -1,5 +1,7 @@
 # BeerJS Porto
 
+<img src="./assets/beerjs-porto.png?raw=true" height="50" align="center" alt="Edited original logo from the beerjs assets.">
+
 BeerJS Porto é um grupo de encontro para Porto e visitantes! Nós nos reunimos para as atividades que giram em torno de duas coisas, cerveja (superbock o sagres) e JavaScript!
 
 ## Quer participar?

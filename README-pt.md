@@ -1,0 +1,26 @@
+# BeerJS Porto
+
+BeerJS Porto é um grupo de encontro para Porto e visitantes! Nós nos reunimos para as atividades que giram em torno de duas coisas, cerveja (superbock o sagres) e JavaScript!
+
+## Quer participar?
+
+Click the <img src="http://beerjs.github.io/sf/assets/watch.png" height="18"> button on this repo (star us too!) to get notified of upcoming meeting dates or date and location changes.  Also, keep your eye on the ['meetup'](https://github.com/beerjs/porto/labels/meetup) label.
+Clique no botão <img src = "http://beerjs.github.io/sf/assets/watch.png" height = "18"> nesta repo (da-nos um Star também!) Para ser notificado das datas de reuniões futuras ou alterações de localização. Além disso, mantenha olha para o ['meetup'] label (https://github.com/beerjs/porto/labels/meetup).
+
+## Quer ajudar?
+
+Faz um Pull Request, registre um Issue, ou edite nosso Wiki.
+
+## Porque GitHub?
+
+* GitHub é uma rede social mais natural para um grupo de desenvolvedores.
+* Menos spam.
+* Porque GitHub é gratuito e fixe!
+
+## Organizadores
+
+Organizadores bem-vindos! Precisamos de mais organizadores para garantir que este grupo permaneça saudável. Envie-me uma mensagem e
+
+* Patxi Pierce ([GitHub](https://github.com/pachanka), [Twitter](https://twitter.com/patxipierce)).
+
+<img src="https://raw.githubusercontent.com/beerjs/meta/master/assets/beerjs.svg" width="100%">

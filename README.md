@@ -1,12 +1,10 @@
-# BeerJS Porto
-
-<img src="./assets/beerjs-porto.png?raw=true" height="50" align="center" alt="Edited original logo from the beerjs assets.">
+# BeerJS Porto <img src="./assets/beerjs-porto.png?raw=true" height="150" align="center" alt="Edited original logo from the beerjs assets.">
 
 BeerJS Porto is a gathering group for Porto and visitors alike! We get together for activities revolving around two things, beer and JavaScript!
 
 ## Want to join?
 
-Click the <img src="http://beerjs.github.io/sf/assets/watch.png" height="18"> button on this repo (star us too!) to get notified of upcoming meeting dates or date and location changes.  Also, keep your eye on the ['meetup'](https://github.com/beerjs/porto/labels/meetup) label.
+Click the "watch" button on this repo (star us too!) to get notified of upcoming meeting dates or date and location changes.  Also, keep your eye on the ['meetup'](https://github.com/beerjs/porto/labels/meetup) label.
 
 ## Want to help?
 

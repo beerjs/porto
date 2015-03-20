@@ -21,5 +21,3 @@ Submit a Pull Request, file an Issue, or edit the Wiki.
 Organizers welcome! We need more organizers to make sure this group stays healthy. PM me and we will be in touch.
 
 * Patxi Pierce ([GitHub](https://github.com/pachanka), [Twitter](https://twitter.com/patxipierce))
-
-<img src="https://raw.githubusercontent.com/beerjs/meta/master/assets/beerjs.svg" width="100%">

@@ -4,7 +4,9 @@ BeerJS Porto is a gathering group for Porto and visitors alike! We get together 
 
 <hr />
 
-**_First meeting:_ Tuesday, April 7th at [Copos&Cosquices](https://www.facebook.com/coposecusquices) at 8:00pm.**
+**First meeting:** _Tuesday, April 7th at [Copos&Cosquices](https://www.facebook.com/coposecusquices) starting 8:00pm._
+
+<hr />
 
 ## Want to join?
 

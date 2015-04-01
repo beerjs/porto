@@ -4,7 +4,9 @@ BeerJS Porto é um grupo de encontro para Porto e visitantes! Nós nos reunimos 
 
 <hr />
 
-**_Primeira reunião:_ Terça-feira, 7 de Abril no [Copos&Cosquices](https://www.facebook.com/coposecusquices) as 20:00 horas.**
+**Primeira reunião:** _Terça-feira, 7 de Abril no [Copos&Cosquices](https://www.facebook.com/coposecusquices) as 20:00 horas._
+
+<hr />
 
 ## Quer participar?
 

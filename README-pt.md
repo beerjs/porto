@@ -23,4 +23,3 @@ Faz um Pull Request, registre um Issue, ou edite nosso Wiki.
 Organizadores bem-vindos! Precisamos de mais organizadores para garantir que este grupo permaneça saudável. Envie-me uma mensagem e
 
 * Patxi Pierce ([GitHub](https://github.com/pachanka), [Twitter](https://twitter.com/patxipierce)).
-* De momento só sou eu, mas eu tenho certeza que isso vai mudar em breve.

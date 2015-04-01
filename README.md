@@ -4,7 +4,7 @@ BeerJS Porto is a gathering group for Porto and visitors alike! We get together 
 
 ## Want to join?
 
-Click the "[Watch](https://github.com/beerjs/porto/subscription)" button on this repo (**★ Star** us too!) to get notified of upcoming meeting dates or date and location changes.  Also, keep your eye on the "[meetup label](https://github.com/beerjs/porto/labels/meetup)".
+Click the "[Watch](https://github.com/beerjs/porto/subscription)" button on this repo (**★** star us too!) to get notified of upcoming meeting dates or date and location changes.  Also, keep your eye on the "[meetup label](https://github.com/beerjs/porto/labels/meetup)".
 
 Check out the [Wiki](https://github.com/beerjs/porto/wiki) for more information.
 

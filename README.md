@@ -10,7 +10,7 @@ Check out the [Wiki](https://github.com/beerjs/porto/wiki) for more information.
 
 ## Want to help?
 
-Submit a Pull Request, file an Issue, or edit the Wiki.
+Submit a Pull Request, [file an Issue](https://github.com/beerjs/porto/issues/new), or edit the Wiki.
 
 ## Why GitHub?
 

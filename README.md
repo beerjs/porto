@@ -1,5 +1,4 @@
-<img src="./assets/beerjs-porto.png?raw=true" height="150" align="center" alt="Edited original logo from the beerjs assets.">
-# BeerJS Porto
+# <img src="./assets/beerjs-porto.png?raw=true" height="150" align="center" alt="Edited original logo from the beerjs assets."> BeerJS Porto
 
 BeerJS Porto is a gathering group for Porto and visitors alike! We get together for activities revolving around two things, beer and JavaScript!
 

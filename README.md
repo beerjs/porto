@@ -2,12 +2,6 @@
 
 BeerJS Porto is a gathering group for Porto and visitors alike! We get together for activities revolving around two things, beer and JavaScript!
 
-<hr />
-
-**First meeting:** _Tuesday, April 7th at [Copos&Cosquices](https://www.facebook.com/coposecusquices) starting 8:00pm._
-
-<hr />
-
 ## Want to join?
 
 Click the "[Watch](https://github.com/beerjs/porto/subscription)" button on this repo (**★** star us too!) to get notified of upcoming meeting dates or date and location changes.  Also, keep your eye on the "[meetup label](https://github.com/beerjs/porto/labels/meetup)".

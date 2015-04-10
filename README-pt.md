@@ -2,12 +2,6 @@
 
 BeerJS Porto é um grupo de encontro para Porto e visitantes! Nós nos reunimos para as atividades que giram em torno de duas coisas, cerveja (superbock o sagres) e JavaScript!
 
-<hr />
-
-**Primeira reunião:** _Terça-feira, 7 de Abril no [Copos&Cosquices](https://www.facebook.com/coposecusquices) as 20:00 horas._
-
-<hr />
-
 ## Quer participar?
 
 Clique no botão "[Watch](https://github.com/beerjs/porto/subscription)" nesta repo (da-nos uma **★** estrela também!) Para ser notificado das datas de reuniões futuras ou alterações de localização. Além disso, mantenha olha para o "[meetup label](https://github.com/beerjs/porto/labels/meetup)".
